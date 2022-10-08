@@ -19,3 +19,8 @@ powerLevel -= 100
 multiplyMe *= 11
 quarterMe /= 4
 
+gainedDollar++
+lostDollar--
+
+let favoriteAnimal = 'humain'
+console.log('My favorite animal: '+ favoriteAnimal)
