@@ -13,3 +13,9 @@ changeMe = (false)
 const entree = 'Enchiladas';
 console.log (entree)
 entree = 'Tacos'
+
+levelUp += 5
+powerLevel -= 100
+multiplyMe *= 11
+quarterMe /= 4
+
