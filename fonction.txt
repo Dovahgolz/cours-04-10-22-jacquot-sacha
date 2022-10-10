@@ -6,3 +6,15 @@ unction getReminder() {
 function greetInSpanish() {
   console.log('Buenas Tardes.');
 }
+
+
+
+exo 3
+function sayThanks(){
+  console.log('Thank you for your purchase! We appreciate your business.')
+}
+
+sayThanks();
+sayThanks();
+sayThanks();
+
